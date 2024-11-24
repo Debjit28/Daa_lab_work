@@ -1,3 +1,5 @@
+/*this all 33 patterns for daa*/
+
 #include <stdio.h>
 
 // 1. Square Pattern
