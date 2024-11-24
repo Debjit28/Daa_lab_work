@@ -1,0 +1,19 @@
+PROBLEMS IN BINARY SEARCH
+Count the number of rotations in a circularly sorted array
+Search an element in a circularly sorted array
+Find the first occurrence of a given number in a sorted array
+Find the last occurrence of a given number in a sorted array
+Count occurrences of a number in a sorted array with duplicates
+Find the smallest element in a rotated sorted array
+Find the floor and ceil of a number in a sorted array
+Search in a nearly sorted array in logarithmic time
+Find the number of 1's in a sorted binary array
+Find the peak element in an array
+Find the missing element in a sequence in logarithmic time
+Find floor and ceil of a number in a sorted array (recursive solution)
+Find the frequency of each element in a sorted array containing duplicates
+Find the square root of a number using binary search
+Division of two numbers using binary search algorithm
+Find the odd occurring element in an array in logarithmic time
+Find pairs with a difference in an array (constant space solution)
+Find k closest elements to a given value in an array
